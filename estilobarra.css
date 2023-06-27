@@ -29,6 +29,7 @@ body, ul {
 }
 
 main {
+  background-color: red;
   min-height: 71vh;
 }
 .container {
